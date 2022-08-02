@@ -668,6 +668,7 @@ border-color: #2196F3;
   background-color: #188CE8;
   border: 1px solid transparent;
   border-radius: 4px;
+  width: 200px;
   cursor: pointer;
   transition: box-shadow 250ms var(--cubic);
 }
@@ -817,7 +818,7 @@ border-color: #2196F3;
 
 .register-form-title {
   display: block;
-  margin-bottom: 30px;
+  margin-bottom: 12px;
 
   font-size: 20px;
   text-align: center;
@@ -864,6 +865,7 @@ border-color: #2196F3;
 }
 .register-form-input{
   padding-left: 42px;
+  height: 40px;
   transition: border-color 250ms var(--cubic);
 
 }
